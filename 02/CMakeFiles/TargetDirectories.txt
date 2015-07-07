@@ -1,0 +1,1 @@
+/home/xujingping/project/opencv/02/CMakeFiles/ResizeImage.dir
